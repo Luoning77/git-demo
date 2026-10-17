@@ -1,7 +1,7 @@
 public class 登录 {
     public static void main(String[] args) {
         登录jbean dj=new 登录jbean("大义",12345,12345,"22212邮箱",1,20);
-        dj.setName("大义");
+        dj.setName("long");
         dj.setMima(12345);
         dj.setQrmima(12345);
         dj.setYx("22212邮箱");
@@ -26,5 +26,6 @@ public class 登录 {
         }else{
             System.out.println("输入性别出错！");
         }
+        System.out.println("年龄："+nn);
     }
 }
