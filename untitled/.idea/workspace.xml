@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed45a6cb-1342-456f-a83e-02a756286822" name="更改" comment="" />
+    <list default="true" id="ed45a6cb-1342-456f-a83e-02a756286822" name="更改" comment="10.17删除out">
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/卖飞机票.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/双色球.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/截取自定义数组范围中元素进新数组.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/抢红包.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/数字加密.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/文字格斗游戏jB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/用方法判断数组中是否存在某一个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/登录.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/登录jbean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/评委打分.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/输入成绩区分等级.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java学习1/随机字母数字验证码.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/对象数组1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/对象数组1JB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/对象数组5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/对象数组5JB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/文字格斗游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/文字格斗游戏jB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/调整字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/转换罗马数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/金额大写.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/集合练习查信息.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/集合练习查信息JB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/集合练习查手机.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/集合练习查手机JB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students guan li/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students guan li/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students guan li/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students guan li/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students guan li/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students guan li/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students guan li/students guan li.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/登录.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/登录.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/登录jbean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/登录jbean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/练习1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/验证码.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,53 +108,57 @@
     &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/JetBrains/untitled/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.popup&quot;,
     &quot;应用程序.卖飞机票.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.双色球.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.女朋友调用.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.女朋友调用2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.对象数组1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.对象数组5.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.截取自定义数组范围中元素进新数组.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.抢红包.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.数字加密.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.文字格斗游戏.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.用方法判断数组中是否存在某一个数.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.登录.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.练习.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.练习1.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.评委打分.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.调整字符串.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.转换罗马数字.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.输入成绩区分等级.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.随机字母数字验证码.executor&quot;: &quot;Run&quot;
+    &quot;应用程序.金额大写.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.随机字母数字验证码.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.集合练习查信息.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.集合练习查手机.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.验证码.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.女朋友调用2">
-    <configuration name="输入成绩区分等级" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="输入成绩区分等级" />
+  <component name="RunManager" selected="应用程序.对象数组1">
+    <configuration name="金额大写" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="金额大写" />
       <module name="Java学习1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="练习1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="练习1" />
+    <configuration name="对象数组1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="对象数组1" />
       <module name="Java学习1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="女朋友调用2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="女朋友调用2" />
+    <configuration name="对象数组1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="对象数组1" />
       <module name="Java学习1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="双色球" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双色球" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数字加密" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数字加密" />
-      <module name="untitled" />
+    <configuration name="对象数组5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="对象数组5" />
+      <module name="Java学习1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +173,41 @@
     <configuration name="评委打分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="评委打分" />
       <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="文字格斗游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="文字格斗游戏" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="集合练习查信息" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集合练习查信息" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="登录" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="登录" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="练习" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练习" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="文字格斗游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="文字格斗游戏" />
+      <module name="Java学习1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -154,6 +233,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="抢红包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="抢红包" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="验证码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="验证码" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="调整字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="调整字符串" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="用方法判断数组中是否存在某一个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="用方法判断数组中是否存在某一个数" />
       <module name="untitled" />
@@ -168,8 +268,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="抢红包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="抢红包" />
+    <configuration name="转换罗马数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="转换罗马数字" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="双色球" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="双色球" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="集合练习查手机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集合练习查手机" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="验证码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="验证码" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="文字格斗游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="文字格斗游戏" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="文字格斗游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="文字格斗游戏" />
+      <module name="Java学习1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="双色球" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="双色球" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数字加密" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数字加密" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -177,9 +326,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.女朋友调用2" />
-        <item itemvalue="应用程序.输入成绩区分等级" />
-        <item itemvalue="应用程序.练习1" />
+        <item itemvalue="应用程序.金额大写" />
+        <item itemvalue="应用程序.对象数组5" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +399,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.17" />
+    <MESSAGE value="10.17删除out" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.17删除out" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

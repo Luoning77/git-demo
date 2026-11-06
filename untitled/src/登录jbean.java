@@ -14,6 +14,7 @@ public class 登录jbean {
         this.xb = xb;
         this.nn = nn;
     }
+
     public 登录jbean() {
 
     }
@@ -21,6 +22,7 @@ public class 登录jbean {
     public void setName(String name) {
         this.name = name;
     }
+
     public String getName() {
         return name;
     }
@@ -32,6 +34,7 @@ public class 登录jbean {
             System.out.println("输入的密码不规范（3-6位密码）！");
         }
     }
+
     public int getMima() {
         return mima;
     }
@@ -51,6 +54,7 @@ public class 登录jbean {
             }
         }
     }
+
     public int getQrmima() {
         return qrmima;
     }
@@ -58,6 +62,7 @@ public class 登录jbean {
     public void setYx(String yx) {
         this.yx = yx;
     }
+
     public String getYx() {
         return yx;
     }
@@ -65,17 +70,19 @@ public class 登录jbean {
     public void setXb(int xb) {
         this.xb = xb;
     }
+
     public int getXb() {
         return xb;
     }
 
     public void setNn(int nn) {
-        if(nn>=18&&nn<=60){
+        if (nn >= 18 && nn <= 60) {
             this.nn = nn;
-        }else{
+        } else {
             System.out.println("年龄输入错误！请填写18-60岁之间的年龄");
         }
     }
+
     public int getNn() {
         return nn;
     }

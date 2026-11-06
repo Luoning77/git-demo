@@ -1,2 +1,5 @@
 .vscode
-untitled\out
+untitled/out/
+out/
+*.class
+.mimocode
